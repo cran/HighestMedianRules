@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "dev.off", "dev.new")
+importFrom("graphics", "plot")
+importFrom("stats", "runif", "uniroot")
